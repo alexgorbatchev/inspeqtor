@@ -1,3 +1,8 @@
+# MONIT USED DMCA TO TAKE DOWN COMPETITION
+
+https://github.com/github/dmca/blob/master/2014-10-05-tildeslash.md
+
+
 # Inspeqtor
 
 **This software is still under active development.  Don't expect
